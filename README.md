@@ -22,7 +22,14 @@
 
   <h2>Github Stats</h2>
 
-![Eshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshal26&show-icons=true&theme=radical)
+
+<a href="https://github.com/eshal26/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eshal26&show-icons=true&theme=radical" />
+</a>
+<a href="https://github.com/eshal26/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshal26&layout=compact&langs_count=8&card_width=320&show-icons=true&theme=radical" />
+</a>
+
 
 ![](https://komarev.com/ghpvc/?username=eshal26)
 <!---
