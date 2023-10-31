@@ -24,11 +24,12 @@
 <a href="https://github.com/eshal26/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eshal26&show-icons=true&theme=radical" />
 </a>
+
+[![Eshal's Holopin badges](https://holopin.me/eshal26)](https://holopin.io/@eshal26)
+
 <a href="https://github.com/eshal26/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshal26&layout=compact&langs_count=8&card_width=310&show-icons=true&theme=radical" />
 </a>
-
-[![Eshal's Holopin badges](https://holopin.me/eshal26)](https://holopin.io/@eshal26)
 
 
 ![](https://komarev.com/ghpvc/?username=eshal26)
