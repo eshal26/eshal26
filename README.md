@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eshal
 - 👀 I’m interested in Machine learning, Computer Vision, and Web Development.
-- 💞️ I’m looking to collaborate on Machine Learning and Web development projects.
+- 💞️ I’m looking to collaborate on AI and development projects.
 - 📫 You can contact me at eshalali68@gmail.com
 
 <h2>Languages and Tools</h2>
