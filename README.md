@@ -24,12 +24,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eshal26&show-icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/eshal26/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshal26&layout=compact&langs_count=8&card_width=310&show-icons=true&theme=radical" />
-</a>
-
-
-![](https://komarev.com/ghpvc/?username=eshal26)
 <!---
 eshal26/eshal26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
