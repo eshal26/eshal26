@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eshal
-- 👀 I’m interested in Machine learning, and Web Development.
+- 👀 I’ve been working in Data Science, Machine Learning, and Agentic AI.
 - 💞️ I’m looking to collaborate on AI and development projects.
 - 📫 You can contact me at eshalali68@gmail.com
 
